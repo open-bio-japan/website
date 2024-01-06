@@ -1,11 +1,11 @@
 # オープンバイオ研究会
 
-See [wiki](https://github.com/open-bio-japan/website/wiki) for details.
-
 オープンソースのバイオインフォマティクスプロジェクトを推進
 * 英名 Japan Open Bioinformatics Research Group
 * 通称 Open Bio Japan
-* 略称 (O|B|J)
+* 略称 (O\|B\|J)
+
+See [wiki](https://github.com/open-bio-japan/website/wiki) for details.
 
 ## 目的
 
